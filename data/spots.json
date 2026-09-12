@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "updated": "2026-09-12",
+  "spots": [
+    {
+      "id": "yq_danxi",
+      "name": "淡溪水库",
+      "lat": 28.197,
+      "lon": 121.013,
+      "type": "RESERVOIR",
+      "fishReports": [
+        { "fish": "鲤鱼", "count": "常见", "bait": "玉米/商品饵", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "草鱼", "count": "常见", "bait": "嫩玉米", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "鲫鱼", "count": "常见", "bait": "蚯蚓/腥香饵", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "翘嘴", "count": "有出鱼", "bait": "亮片/活虾", "date": "2026-08", "source": "抖音钓友" }
+      ],
+      "summary": "离虹桥镇约3公里，四面环山、水质清澈，鱼类以鲤鱼、草鱼、鲫鱼为主，小翘嘴也不少。注意：该水库属乐清水源地，近期有禁钓说法，出发前请先确认开放状态。",
+      "bestSeason": "春/秋",
+      "commonBaits": ["玉米", "嫩玉米", "蚯蚓", "腥香商品饵"],
+      "sources": ["https://www.8264.com/diaoyu/2275863.html"]
+    },
+    {
+      "id": "yq_baishi",
+      "name": "白石水库",
+      "lat": 28.135,
+      "lon": 120.965,
+      "type": "RESERVOIR",
+      "fishReports": [
+        { "fish": "罗非", "count": "多", "bait": "蚯蚓/冻饵", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "小鲫", "count": "多", "bait": "腥香饵", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "翘嘴", "count": "常见", "bait": "路亚亮片", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "鲶鱼", "count": "有", "bait": "鸡肝/蚯蚓", "date": "2026-07", "source": "8264钓场点评" }
+      ],
+      "summary": "白石片区三个水库（钟前、龙山湖、白石湖）之一，鱼种丰富：罗非、小鲫、翘嘴、鳊鱼、草鱼、花白鲢、鲤、鲶鱼、白条等，可路亚。免费为主，中雁大水库个别按斤收费；中间龙山湖较难钓。",
+      "bestSeason": "春/秋/初夏",
+      "commonBaits": ["蚯蚓", "腥香商品饵", "玉米", "亮片"],
+      "sources": [
+        "https://www.8264.com/diaoyu/2276849.html",
+        "https://www.bixishang.com/fishing/data/diaochang/zhejiang/14164.html"
+      ]
+    },
+    {
+      "id": "yq_zhongqian",
+      "name": "钟前水库",
+      "lat": 28.1265,
+      "lon": 120.8684,
+      "type": "RESERVOIR",
+      "fishReports": [],
+      "summary": "位于白石街道玉甑峰麓、中雁荡山三湖之一（钟前湖），水库面积大、水质好。目前水库管理方承包经营、同时属饮用水源保护区，垂钓开放情况以现场为准，建议先确认再下竿。",
+      "bestSeason": "春/秋",
+      "commonBaits": ["玉米", "商品饵"],
+      "sources": [
+        "http://www.yueqing.gov.cn/art/2025/8/6/art_1229883159_4403048.html",
+        "https://www.8264.com/diaoyu/2276849.html"
+      ]
+    },
+    {
+      "id": "yq_fuxi",
+      "name": "福溪水库",
+      "lat": 28.398,
+      "lon": 121.045,
+      "type": "RESERVOIR",
+      "fishReports": [
+        { "fish": "鲫鱼", "count": "多", "bait": "蚯蚓/腥香饵", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "鳊鱼", "count": "多", "bait": "玉米/商品饵", "date": "2026-07", "source": "8264钓场点评" },
+        { "fish": "青鱼(螺蛳青)", "count": "有大鱼", "bait": "螺蛳/玉米", "date": "2026-07", "source": "8264钓场点评" }
+      ],
+      "summary": "位于乐清北部福溪乡（今属仙溪镇），柏油路直达水边，交通便利。鱼以鲫鱼、鳊鱼为多，也有螺蛳青等大鱼；现由当地农民承包，约50元/天/竿、不限竿，钓位较多。",
+      "bestSeason": "春/秋",
+      "commonBaits": ["蚯蚓", "腥香商品饵", "玉米", "螺蛳"],
+      "sources": [
+        "https://www.8264.com/diaoyu/2276843.html",
+        "http://www.yueqing.gov.cn/art/2025/10/29/art_1322069_59310514.html"
+      ]
+    },
+    {
+      "id": "wz_nanxijiang",
+      "name": "楠溪江",
+      "lat": 28.26,
+      "lon": 120.715,
+      "type": "RIVER",
+      "fishReports": [
+        { "fish": "马口", "count": "多/大", "bait": "小亮片/蝇饵", "date": "2026-05", "source": "抖音溪流路亚钓友" },
+        { "fish": "宽鳍鱲(溪哥/彩马)", "count": "多", "bait": "小亮片", "date": "2026-05", "source": "抖音溪流路亚钓友" },
+        { "fish": "溪石斑(光唇鱼)", "count": "常见", "bait": "蚯蚓/虫饵", "date": "2024-05", "source": "抖音钓友" },
+        { "fish": "白条/鲫鱼", "count": "常见", "bait": "腥饵", "date": "2025-09", "source": "抖音钓友" },
+        { "fish": "黄颡(黄辣丁)", "count": "有", "bait": "蚯蚓/鸡肝", "date": "2025-09", "source": "抖音钓友" }
+      ],
+      "summary": "永嘉县境清水溪流，温州淡水鱼资源最丰富的水系之一（《瓯江流域温州段鱼类图谱》收录90种）。岩头、枫林、上塘等段马口、宽鳍鱲成群，溪流路亚极受欢迎；鱼情受水量影响大，雨后涨水慎钓。",
+      "bestSeason": "春/秋",
+      "commonBaits": ["小亮片", "蝇饵", "蚯蚓", "腥香拉饵"],
+      "sources": [
+        "https://www.iesdouyin.com/share/video/7634731073767256997",
+        "https://www.iesdouyin.com/share/video/7365861234240949514",
+        "http://m.163.com/dy/article/DCKTHHVO05149S6H.html"
+      ]
+    },
+    {
+      "id": "yq_hongqiao",
+      "name": "虹桥河网",
+      "lat": 28.205,
+      "lon": 121.05,
+      "type": "RIVER",
+      "fishReports": [
+        { "fish": "鲫鱼", "count": "多", "bait": "蚯蚓/腥香饵", "date": "2026-02", "source": "抖音野河钓友" },
+        { "fish": "黄颡(黄辣丁)", "count": "有", "bait": "蚯蚓/鸡肝", "date": "2026-02", "source": "抖音野河钓友" }
+      ],
+      "summary": "乐清虹桥片区内河网，野河作钓以鲫鱼为主，夜钓黄颡鱼口好。城市河道注意走水与电鱼网鱼情况，建议优先选水草边、桥墩等结构位。",
+      "bestSeason": "春/秋/冬季夜钓",
+      "commonBaits": ["蚯蚓", "腥香商品饵", "红虫", "鸡肝"],
+      "sources": ["https://www.iesdouyin.com/share/video/7611113066477948211"]
+    }
+  ]
+}
